@@ -9,7 +9,7 @@ import Contact from './Components/Contact';
 
 function App() {
   const routes = createBrowserRouter([{
-    path: '', element: <Layout />, children: [
+      path: '/React-Portfolio-template', element: <Layout />, children: [
       { index:true, element: <Home /> },
       { path: '/about', element: <About /> },
       { path: '/portfolio', element: <Portfolio /> },
