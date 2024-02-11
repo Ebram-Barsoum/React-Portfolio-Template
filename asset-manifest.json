@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-template/static/css/main.6d28bc1e.css",
+    "main.js": "/React-Portfolio-template/static/js/main.ee9c5b40.js",
+    "static/js/592.a6bbe6b0.chunk.js": "/React-Portfolio-template/static/js/592.a6bbe6b0.chunk.js",
+    "static/media/404-error.jpg": "/React-Portfolio-template/static/media/404-error.02109dfe8eccfb8895ae.jpg",
+    "static/media/poert1.png": "/React-Portfolio-template/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/React-Portfolio-template/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/port2.png": "/React-Portfolio-template/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/React-Portfolio-template/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "index.html": "/React-Portfolio-template/index.html",
+    "main.6d28bc1e.css.map": "/React-Portfolio-template/static/css/main.6d28bc1e.css.map",
+    "main.ee9c5b40.js.map": "/React-Portfolio-template/static/js/main.ee9c5b40.js.map",
+    "592.a6bbe6b0.chunk.js.map": "/React-Portfolio-template/static/js/592.a6bbe6b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d28bc1e.css",
+    "static/js/main.ee9c5b40.js"
+  ]
+}
